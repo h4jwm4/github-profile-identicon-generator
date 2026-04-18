@@ -1,10 +1,10 @@
 # github-profile-identicon-generator
 
-Generate symmetrical pixel avatars for your GitHub profile. Runs entirely in the browser — no server, no tracking, no account required.
+Generate symmetrical pixel avatars for your GitHub profile.
 
 **[→ Try it live](https://h4jwm4.github.io/github-profile-identicon-generator)**
 
-![screenshot](./src/assets/hero.png)
+![screenshot](./src/assets/landing-page-screenshot.png)
 
 ---
 
