@@ -115,7 +115,7 @@ function MiniPreview({ seed, bg, rounded }: { seed: number, bg: string, rounded:
 }
 
 export default function App() {
-  const canvasRef = useRef<HTMLCanvasElement>(null);\
+  const canvasRef = useRef<HTMLCanvasElement>(null);
   const [gridSize, setGridSize] = useState(5);
   const [saturation, setSaturation] = useState(65);
   const [bgMode, setBgMode] = useState("light");
