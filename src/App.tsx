@@ -14,7 +14,7 @@ import {
   Card, CardContent, CardHeader, CardTitle,
 } from "@/components/ui/card";
 
-// Interfaces for Type Safety
+// Interfaces for Type Safety.
 interface IdenticonData {
   color: string;
   pixels: boolean[];
